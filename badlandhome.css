@@ -1,0 +1,50 @@
+body{
+background-color: black;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.bad-title {
+	width: 370px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+	font-size: 0px;
+	margin: 300px auto;
+	color: white;
+}
+.bad-title:hover{
+	cursor: pointer;
+}
+.title-color1{
+	font-size: 75px;
+	color: red;
+	
+	width: 160px;
+	display: inline-block;
+}
+.title-color2{
+	font-size: 75px;
+	color: white;
+	width: 100px;
+	display: inline-block;
+}
+.title-color1:hover{
+	color: yellow;
+}
+.badland-kids{
+	width: 100px;
+	display: block;
+	margin: 0 auto;
+}
+section{
+	margin: 20px auto;
+	text-align: center;
+}
+.page{
+	padding: 20px;
+	font-size: 20px;
+	border: 1px solid white;
+	color:white;
+	display: inline;
+}
